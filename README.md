@@ -6,5 +6,7 @@ Codes are almost same with KumarRobotics'.
 This repo is just for saving.
 
 ### Members ###
-Hoseong Seo 	      email : hosung9009@gmail.com
-Youngdong Clark Son   email : clark.y.d.son@gmail.com
++ Hoseong Seo  
+  * email : hosung9009@gmail.com
++ Youngdong Clark Son  
+  * email : clark.y.d.son@gmail.com

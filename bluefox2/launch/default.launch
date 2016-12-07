@@ -4,7 +4,7 @@
     <arg name="rate" default="100"/>
 
     <!-- Camera Settings -->
-    <arg name="serial" default="26803713"/>
+    <arg name="serial" default="25002124"/>
     <arg name="camera_name" default="camera"/>
     <arg name="camera" default="$(arg camera_name)"/>
     <arg name="frame_id" default="$(arg camera)"/>
@@ -13,13 +13,13 @@
 
     <arg name="idpf" default="2"/>
     <arg name="aec" default="false"/>
-    <arg name="expose_us" default="16800"/>
+    <arg name="expose_us" default="8400"/>
     <arg name="agc" default="false"/>
-    <arg name="gain_db" default="30.0"/>
+    <arg name="gain_db" default="20.0"/>
     <arg name="cbm" default="0"/>
     <arg name="ctm" default="0"/>
     <arg name="dcfm" default="0"/>
-    <arg name="hdr" default="false"/>
+    <arg name="hdr" default="true"/>
     <arg name="wbp" default="-1"/>
     <arg name="request" default="0"/>
     <arg name="mm" default="0"/>
@@ -28,7 +28,7 @@
     <!-- Node Settings -->
     <arg name="output" default="screen"/>
     <arg name="proc" default="false"/>
-    <arg name="view" default="true"/>
+    <arg name="view" default="false"/>
     <arg name="calib" default="false"/>
 
     <!-- Node -->
