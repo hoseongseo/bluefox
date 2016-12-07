@@ -2,8 +2,8 @@
 
 ICSL drone flight project team
 
-Codes are almost same with KumarRobotics'.
-This repo is just for saving.
+Codes are almost same with KumarRobotics'.  
+So, this repo is just for saving.
 
 ### Members ###
 + Hoseong Seo  
